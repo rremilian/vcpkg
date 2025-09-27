@@ -1,0 +1,33 @@
+{
+  "name": "sebsjames-mathplot",
+  "version": "1.0",
+  "description": "Plotting, graphing and data visualization for your C++ programs",
+  "homepage": "https://github.com/sebsjames/mathplot",
+  "license": "Apache-2.0",
+  "dependencies": [
+    "armadillo",
+    {
+      "name": "egl",
+      "platform": "linux"
+    },
+    {
+      "name": "freeglut",
+      "platform": "linux"
+    },
+    "freetype",
+    "glfw3",
+    "hdf5",
+    "nlohmann-json",
+    "opengl",
+    "rapidxml",
+    "sebsjames-maths",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

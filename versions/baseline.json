@@ -8752,6 +8752,10 @@
       "baseline": "1.4.6",
       "port-version": 0
     },
+    "sebsjames-mathplot": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "sebsjames-maths": {
       "baseline": "1.0",
       "port-version": 0
